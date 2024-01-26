@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fady Mattar
-- 👀 I’m interested in Software & Electric Engineering
-- 🌱 I’m currently a student in Technion-Haifa studying Electrical Engineering
+- 👀 I’m interested in Software & Electrical Engineering
+- 🌱 I’m currently a student in Technion-Haifa studying Electrical & Software Engineering
 - 💞️ I’m looking forward to show off my projects 
 - 📫 you could reach me through the contact information on my CV
 
