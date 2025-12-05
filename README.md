@@ -1,4 +1,4 @@
-- Hi, My name is Fady.
+- Welcome to my Github profile, My name is Fady.
 - I’m interested in Electrical & Computer Engineering, which is my feild of study in the Technion.
 - Currently working on two main projects, [NS3 simulation study](https://github.com/FadyMattar/NS3_Simulation_Study) & Autonomous Formula driving [FSD](https://www.formulastudent.de/about).
 - 
