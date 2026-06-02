@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fady Mattar 👋</h1>
+<h1 align="center">Hi there, I'm Fady👋</h1>
 
 <h3 align="center">Electrical & Computer Engineering Student at the Technion</h3>
 
@@ -15,7 +15,8 @@
 
 ## 📫 Get In Touch
 
-- You can reach me through the contact information provided on my **CV**.
+- You can reach me through the contact information provided on my **CV**. 
+- Or my linkedIn: www.linkedin.com/in/fady-mattar
 
 ---
 <p align="center">
