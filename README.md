@@ -1,10 +1,27 @@
-- Welcome to my Github profile, My name is Fady.
-- I’m interested in Electrical & Computer Engineering, which is my feild of study in the Technion.
-- Currently working on two main projects, [NS3 simulation study](https://github.com/FadyMattar/NS3_Simulation_Study) & Autonomous Formula driving [FSD](https://www.formulastudent.de/about).
-- 
-- you can reach me through the contact information on my CV 
+<h1 align="center">Hi there, I'm Fady Mattar 👋</h1>
 
-<!---
-FadyMattar/FadyMattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Electrical & Computer Engineering Student at the Technion</h3>
+
+<br />
+
+<p align="center">
+  I'm passionate about engineering, network simulations, and autonomous driving. Always eager to learn new technologies and build robust systems.
+</p>
+
+## 🚀 Currently Working On
+
+- 📡 **[NS3 Simulation Study](https://github.com/FadyMattar/NS3_Simulation_Study)** - Simulating network scenarios and running comprehensive test evaluations.
+- 🏎️ **[FSD (Autonomous Formula Driving)](https://www.formulastudent.de/about)** - Developing autonomous driving capabilities for Formula Student.
+
+## 🛠️ Skills & Interests
+- **Languages:** C, C++, Python *(feel free to add more!)*
+- **Domains:** Network Simulation (NS-3), Autonomous Driving, Computer Engineering.
+
+## 📫 Get In Touch
+
+- You can reach me through the contact information provided on my **CV**.
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FadyMattar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
