@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  I'm passionate about engineering, network simulations, and autonomous driving. Always eager to learn new technologies and build robust systems.
+  I'm passionate about engineering, Computer networks and Internet simulations, and also autonomous driving. Always eager to learn new technologies and build robust systems.
 </p>
 
 ## 🚀 Currently Working On
