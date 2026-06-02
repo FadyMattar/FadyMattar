@@ -13,10 +13,6 @@
 - 📡 **[NS3 Simulation Study](https://github.com/FadyMattar/NS3_Simulation_Study)** - Simulating network scenarios and running comprehensive test evaluations.
 - 🏎️ **[FSD (Autonomous Formula Driving)](https://www.formulastudent.de/about)** - Developing autonomous driving capabilities for Formula Student.
 
-## 🛠️ Skills & Interests
-- **Languages:** C, C++, Python *(feel free to add more!)*
-- **Domains:** Network Simulation (NS-3), Autonomous Driving, Computer Engineering.
-
 ## 📫 Get In Touch
 
 - You can reach me through the contact information provided on my **CV**.
