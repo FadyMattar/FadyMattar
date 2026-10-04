@@ -5,18 +5,18 @@
 <br />
 
 <p align="center">
-  I'm passionate about engineering, Computer networks and Internet simulations, and also autonomous driving. Always eager to learn new technologies and build robust systems.
+  I enjoy engineering in all its forms and I'm open to working across many different fields, from networking and systems to software, hardware, and beyond. I love picking up new technologies, tackling unfamiliar problems, and building robust systems wherever the challenge takes me.
 </p>
 
-## 🚀 Currently Working On
+## 🛠️ Some Things I've Worked On
 
 - 📡 **[NS3 Simulation Study](https://github.com/FadyMattar/NS3_Simulation_Study)** - Simulating network scenarios and running comprehensive test evaluations.
 - 🏎️ **[FSD (Autonomous Formula Driving)](https://www.formulastudent.de/about)** - Developing autonomous driving capabilities for Formula Student.
 
 ## 📫 Get In Touch
 
-- You can reach me through the contact information provided on my **CV**. 
-- Or my linkedIn: www.linkedin.com/in/fady-mattar
+- You can reach me through the contact information provided on my **CV**.
+- Or on LinkedIn: [linkedin.com/in/fady-mattar](https://www.linkedin.com/in/fady-mattar)
 
 ---
 <p align="center">
