@@ -10,8 +10,9 @@
 
 ## 🛠️ Some Things I've Worked On
 
-- 📡 **[NS3 Simulation Study](https://github.com/FadyMattar/NS3_Simulation_Study)** - Simulating network scenarios and running comprehensive test evaluations.
-- 🏎️ **[FSD (Autonomous Formula Driving)](https://www.formulastudent.de/about)** - Developing autonomous driving capabilities for Formula Student.
+- 🏎️ **[Formula Student Autonomous Perception](https://github.com/FadyMattar/Formula_Project_Showcase)** - YOLO-based cone detection and a CARLA simulation pipeline, integrated with ROS for an autonomous race car.
+- 🐧 **[Linux Kernel Privileged Processes](https://github.com/FadyMattar/RedHat_Linux_Priv_Proccesses)** - Kernel modification adding privileged processes, restricted files, and custom system calls (C).
+- 📡 **[NS3 Simulation Study](https://github.com/FadyMattar/NS3_Simulation_Study)** - Simulating network scenarios and running comprehensive test evaluations (C++).
 
 ## 📫 Get In Touch
 
